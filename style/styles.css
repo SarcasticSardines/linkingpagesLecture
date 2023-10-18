@@ -1,0 +1,27 @@
+body {
+    background-color: sandybrown;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    color: rebeccapurple;
+    font-size: 20px;
+}
+
+.flexMe {
+text-align: center;
+border: 3px solid;
+border-color: purple;
+display: flex;
+justify-content: space-evenly;
+}
+
+.centeredButton {
+    height: 200px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
